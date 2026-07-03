@@ -1,4 +1,4 @@
-```
+
 # 🚀 Project Management REST API
 
 A production-ready **Project Management REST API** built with **FastAPI, PostgreSQL, and SQLAlchemy**, designed using a clean layered architecture (Router → Service → Repository).
